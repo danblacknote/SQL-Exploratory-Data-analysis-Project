@@ -29,6 +29,15 @@ This repository contains a comprehensive **Sales Data Warehouse Analytics** solu
 - **Dimension Tables**: 
   - `dim_customers` (customer attributes + demographics)
   - `dim_product` (product attributes + cost structure)
+ 
+
+
+
+  
+![image alt](https://github.com/danblacknote/SQL-Exploratory-Data-analysis-Project/blob/82d539421050df190e0cdb3300c76d7160373344/docs/Data%20Analysis%20Road%20Map.JPG)
+
+
+
 
 ## 📊 Analytical Capabilities
 
