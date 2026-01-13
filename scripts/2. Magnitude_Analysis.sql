@@ -2,8 +2,8 @@
 /*
 ================================================================================
 TITLE: Sales Data Warehouse - Magnitude Analysis
-AUTHOR: [Your Name]
-DATE: [Current Date]
+AUTHOR: Deneke Zewdu
+DATE: 13 Jan,2025
 PURPOSE: Analyze sales distribution and performance across key dimensions
 
 DESCRIPTION:
