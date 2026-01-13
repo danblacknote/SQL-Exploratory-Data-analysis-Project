@@ -6,6 +6,7 @@ AUTHOR: Deneke Zewdu
 DATE: 13 Jan,2025
 PURPOSE: Analyze cumulative trends and running totals of sales performance
 
+  
 DESCRIPTION:
 This script performs a cumulative analysis to track the progressive accumulation
 of sales metrics over time. It calculates running totals and moving averages
