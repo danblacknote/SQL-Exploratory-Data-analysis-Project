@@ -1,8 +1,8 @@
 /*
 ================================================================================
 TITLE: Sales Data Warehouse - Top-N Performance Analysis
-AUTHOR: [Your Name]
-DATE: [Current Date]
+AUTHOR: Deneke Zewdu
+DATE: 13 Jan,2025
 PURPOSE: Identify top and bottom performers across products and customers
 
 DESCRIPTION:
