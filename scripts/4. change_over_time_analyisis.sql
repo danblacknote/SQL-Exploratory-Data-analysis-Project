@@ -2,7 +2,7 @@
 ================================================================================
 TITLE: Sales Data Warehouse - Temporal Trend Analysis
 AUTHOR: Deneke Zewdu 
-DATE: 13 Jan,2025
+DATE: 13 Jan,2026
 PURPOSE: Analyze sales performance trends and patterns over time
 
 DESCRIPTION:
@@ -19,7 +19,7 @@ KEY ANALYSIS AREAS:
 BUSINESS INSIGHTS PROVIDED:
 - How are sales trending month-over-month?
 - Is customer count growing or declining over time?
-- What are seasonal patterns in sales volume?
+- What are the seasonal patterns in sales volume?
 - Which months show peak performance?
 
 ANALYTICAL TECHNIQUES DEMONSTRATED:
