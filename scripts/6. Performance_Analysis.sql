@@ -6,6 +6,7 @@ AUTHOR: Deneke Zewdu
 DATE: 13 Jan,2025
 PURPOSE: Analyze year-over-year product performance with comparative metrics
 
+
 DESCRIPTION:
 This script performs sophisticated performance analysis comparing each product's
 yearly sales against its historical average and the previous year's performance.
